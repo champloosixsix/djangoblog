@@ -1,0 +1,78 @@
+.page-header {
+    background-color: #303841;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+body {
+    background-color: #3a4750;
+    color: #ffffff;
+}
+
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color:#00adb5;
+    font-size: 36pt;
+    text-decoration: bold;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Philosopher';
+    color: #FFFFFF
+}
+
+.date {
+    color: #eeeeee;
+    padding-right: 40px;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea,
+.post-form input {
+    width: 100%;
+}
+
+.top-menu,
+.top-menu:hover,
+.top-menu:visited {
+    color:#3a4750;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.post h2 a,
+.post h2 a:visited {
+    color: #FFFFFF;
+}
+
+.post > .date,
+.post > .actions {
+    float: right;
+}
+
+.btn-seconday,
+.btn-secondary:visted {
+    color: #C25100;
+    background: none;
+    border-color: #C25100;
+}
+
+.btn-secondary:hover {
+    color: #FFFFFF;
+    background-color: #C25100;
+}
