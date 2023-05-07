@@ -23,8 +23,9 @@ h2,
 h3,
 h4 {
     font-family: 'Philosopher';
-    color: #FFFFFF
+    color: #FFFFFF;
 }
+
 
 .date {
     color: #eeeeee;
@@ -32,18 +33,19 @@ h4 {
 }
 
 .save {
-    float: right;
+    float: left;
+    margin-left: 40px;
 }
 
 .post-form textarea,
 .post-form input {
-    width: 100%;
+    width: 25%;
 }
 
 .top-menu,
 .top-menu:hover,
 .top-menu:visited {
-    color:#3a4750;
+    color:#ffffff;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -67,12 +69,12 @@ h4 {
 
 .btn-seconday,
 .btn-secondary:visted {
-    color: #C25100;
+    color: #ffffff;
     background: none;
-    border-color: #C25100;
+    border-color: #ffffff;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #3a4750;
 }
