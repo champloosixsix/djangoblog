@@ -18,6 +18,10 @@ body {
     text-decoration: bold;
 }
 
+.newpo {
+    padding-left: 40px;
+}
+
 h1,
 h2,
 h3,
@@ -40,6 +44,11 @@ h4 {
 .post-form textarea,
 .post-form input {
     width: 25%;
+    margin-left: 40px;
+}
+
+.post-form {
+    padding-left: 40px;
 }
 
 .top-menu,
@@ -70,7 +79,7 @@ h4 {
 .btn-seconday,
 .btn-secondary:visted {
     color: #ffffff;
-    background: none;
+    background-color: #3a4750;
     border-color: #ffffff;
 }
 
